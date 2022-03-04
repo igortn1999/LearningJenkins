@@ -14,7 +14,10 @@
   <builders>
     <hudson.tasks.Shell>
       <command>echo &quot;Hello World&quot;
-echo &quot;The current date and time is: $(date)&quot;</command>
+NAME=USER
+echo &quot;Hello, $NAME. The current date and time is: $(date)&quot; &gt; /tmp/info
+cat /tmp/info
+sh /tmp/script.sh User Silva </command>
       <configuredLocalRules/>
     </hudson.tasks.Shell>
   </builders>
