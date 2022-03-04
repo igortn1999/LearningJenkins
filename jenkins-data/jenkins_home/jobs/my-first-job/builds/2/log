@@ -1,0 +1,10 @@
+Started by user [8mha:////4GuU9cWA67rsnMA4E/pVX2RY9J6992xQCqu0SaXKMfxcAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZu/dLi1CL9xJTczDwACG0V4sAAAAA=[0mJenkins Admin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/my-first-job
+[my-first-job] $ /bin/sh -xe /tmp/jenkins14121965347418811509.sh
++ echo Hello World
+Hello World
++ date
++ echo The current date and time is: Fri Mar  4 21:22:58 UTC 2022
+The current date and time is: Fri Mar  4 21:22:58 UTC 2022
+Finished: SUCCESS
