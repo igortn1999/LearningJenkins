@@ -2,5 +2,10 @@
 
 NAME=$1
 LASTNAME=$2
+SHOW=$3
 
-echo "Hello, $NAME $LASTNAME"
+if [ "$SHOW" = "true" ]; then
+    echo "Hello, $NAME $LASTNAME"
+else
+    echo "No name will be shown"
+fi
