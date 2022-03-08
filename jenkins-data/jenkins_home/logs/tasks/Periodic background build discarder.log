@@ -1,12 +1,8 @@
-Started at Mon Mar 07 19:51:03 UTC 2022
+Started at Tue Mar 08 19:17:22 UTC 2022
 Processing job-with-parameter
 Offering job-with-parameter to Project Build Discarder
 Processing my-first-job
 Offering my-first-job to Project Build Discarder
-Finished at Mon Mar 07 19:51:03 UTC 2022. 15ms
-Started at Mon Mar 07 20:51:00 UTC 2022
-Processing job-with-parameter
-Offering job-with-parameter to Project Build Discarder
-Processing my-first-job
-Offering my-first-job to Project Build Discarder
-Finished at Mon Mar 07 20:51:00 UTC 2022. 11ms
+Processing remote-task
+Offering remote-task to Project Build Discarder
+Finished at Tue Mar 08 19:17:22 UTC 2022. 20ms
